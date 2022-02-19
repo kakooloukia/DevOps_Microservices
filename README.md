@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![CircleCI](https://circleci.com/gh/kakooloukia/cdond-c3-projectstarter.svg?style=svg)](https://app.circleci.com/pipelines/github/kakooloukia/cdond-c3-projectstarter)
 
 ## Project Overview
 
